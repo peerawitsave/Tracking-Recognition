@@ -1,0 +1,8 @@
+train: C:\Users\Student\Documents\GitHub\rag\train
+val: C:\Users\Student\Documents\GitHub\rag\test
+
+
+nc: 2
+
+
+name: ["Monster01", "Monster02"]
